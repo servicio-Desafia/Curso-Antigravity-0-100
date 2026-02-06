@@ -1,0 +1,4 @@
+clone repository
+cd repository
+git add x file and commit such file
+git push the changes done in the repo

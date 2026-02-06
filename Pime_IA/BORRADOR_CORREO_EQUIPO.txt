@@ -1,0 +1,26 @@
+Asunto: Plan de Arranque y Roles - Ecosistema Pime IA (Google Antigravity)
+
+Hola Santiago y Jeisson,
+
+Les comparto el **Plan de Implementación Oficial** para el desarrollo del ecosistema **Pime IA**, el cual construiremos en conjunto con la tecnología de Google Antigravity.
+
+Este documento define la hoja de ruta técnica y nuestros roles específicos:
+
+**🔹 Resumen de Roles:**
+*   **Oscar (Yo):** Arquitecto del sistema y Líder de Integración.
+*   **Santiago:** Desarrollo de Fundamentos y Estructura Base.
+*   **Jeisson (Senior):** Desarrollo de Aplicaciones Complejas y Seguridad.
+*   **Antigravity:** Nuestro Co-Piloto de IA para generación de código y arquitectura.
+
+**🔹 Próximos Pasos Inmediatos:**
+1.  **Leer el Plan Adjunto:** `implementation_plan.md` (Detalla la visión y etapas).
+2.  **Configurar Entorno:** Sigan la guía en `Pime_IA/00_Setup/GUIA_INSTALACION.md`.
+3.  **Primer Ejercicio:** Revisen el script "Hola Mundo" en `Pime_IA/01_Fundamentos/registro_proyectos.py`.
+
+Adjunto encontrarán los archivos mencionados.
+
+Quedo atento a sus comentarios para iniciar.
+
+Saludos,
+Oscar Patiño
+CEO Grupo Desafia
